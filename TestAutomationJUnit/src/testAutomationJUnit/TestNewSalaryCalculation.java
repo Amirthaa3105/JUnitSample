@@ -1,9 +1,8 @@
 package testAutomationJUnit;
 import org.junit.Test;
 import static org.junit.Assert.*;
-
-
-
+import testAutomationJUnit.EmpDetails;
+import testAutomationJUnit.NewSalaryCalculation;
 public class TestNewSalaryCalculation {
 	@Test
 	public void test1()
